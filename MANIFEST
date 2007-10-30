@@ -1,0 +1,8 @@
+Changes
+Makefile.PL
+MANIFEST
+lib/Business/MaxMind/CreditCardFraudDetection.pm
+lib/Business/MaxMind/HTTPBase.pm
+README
+t/1.t
+example.pl
